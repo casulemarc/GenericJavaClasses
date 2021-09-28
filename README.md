@@ -1,4 +1,4 @@
-## CMSC 204 Generic Lab 1
+## Generic Classes In Java
 Project lab to test for use of generic labs
 
 ## Output
